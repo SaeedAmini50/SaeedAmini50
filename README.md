@@ -21,8 +21,7 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 
-
-Notepad++	![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)
+![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
@@ -48,7 +47,6 @@ Notepad++	![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=f
 
 <h2>The way to communicate with me</h2>
 
-<a href="https://www.email.com/saeedamini506750@email.com"><img src="https://github.com/SaeedAmini50/About-Me/blob/master/image/icons8-email-48.png?raw=true"></a>
 <a href="https://www.facebook.com/saeed.amini.7528?mibextid=ZbWKwL"><img src="https://github.com/SaeedAmini50/About-Me/blob/master/image/icons8-facebook-48.png?raw=true"></a>
 <a href="https://www.instagram.com/saeedamini750"><img src="https://github.com/SaeedAmini50/About-Me/blob/master/image/icons8-instagram-48.png?raw=true"></a>
 <a href="https://telegram.me/s5067"><img src="https://github.com/SaeedAmini50/About-Me/blob/master/image/icons8-telegram-48.png?raw=true"></a>

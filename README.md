@@ -7,7 +7,7 @@
 <hr>
 <h2 >My Skills</h2>
 
-Oracle
+Oracle(SQL |PL SQL)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 
